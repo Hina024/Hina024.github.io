@@ -1,4 +1,4 @@
-hina024samnani.github.io
+hina024.github.io
 =======================
 
 Hina's Personal Website
