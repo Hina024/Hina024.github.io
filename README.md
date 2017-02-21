@@ -1,1 +1,1 @@
-# hina024.github.io
+# hina024.samnani.com
